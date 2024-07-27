@@ -52,5 +52,9 @@ I’m a high school student with a passion for coding. I enjoy playing around on
 </div>  
 <div align="center">  
   <img src="https://github-profile-trophy.vercel.app?username=mitzCanCode&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div> 
 
+<div align="center">  
+<img src="https://raw.githubusercontent.com/mitzCanCode/mitzCanCode/output/snake.svg" alt="Snake animation" />
 </div>  
+
