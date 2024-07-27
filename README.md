@@ -103,14 +103,6 @@ I’m a high school student with a passion for coding. I enjoy playing around on
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mitzCanCode/mitzCanCode/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
