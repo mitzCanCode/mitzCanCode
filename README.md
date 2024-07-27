@@ -28,7 +28,7 @@ I’m a high school student with a passion for coding. I enjoy playing around on
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/mitzCanCode/mitzCanCode/blob/main/assets/IMG_4686.jpeg" align="center" style="width: 100%" />
 </div>  
 
 
