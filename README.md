@@ -6,7 +6,7 @@ I’m a high school student with a passion for coding. I enjoy playing around on
 
 
 ### Rapidfire  
-- 🔭 I’m currently working on a [Network Scammer](https://github.com/mitzCanCode/netscan) and an [OSINT tool](https://github.com/mitzCanCode/OhShint)  
+- 🔭 I’m currently working on a [Network Scanner](https://github.com/mitzCanCode/netscan) and an [OSINT tool](https://github.com/mitzCanCode/OhShint)  
   
 
 - 🌱 I’m currently studying for the PCPP python certification  
