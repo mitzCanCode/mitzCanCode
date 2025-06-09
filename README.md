@@ -1,24 +1,6 @@
 ## Hey 👋, I'm Dimitris Chatzigeorgiou!  
 ### Good to see you!  <img src="https://github.com/mitzCanCode/mitzCanCode/blob/main/assets/IMG_4686.jpeg" align="right" style="width: 40%" />
 
-I’m a high school student with a passion for coding. I enjoy playing around on tryhackme and learning about cyber security. I also enjoy developing scripts with python that help me with every day tasks, creating simple websites and also making iOS applications using swift.  
-  
-
-
-### Rapidfire  
-- 🔭 I’m currently working on a [Network Scanner](https://github.com/mitzCanCode/netscan) and an [OSINT tool](https://github.com/mitzCanCode/OhShint)  
-  
-
-- 🌱 I’m currently studying for the PCPP python certification  
-  
-
--  📥 Contact me at dimitris.chatzi@proton.me  
-  
-
-- ⚡ Fun fact: When using Xcode, I sometimes code in light mode   
-
-
-
 
 <br/>
 <div align = "center">
