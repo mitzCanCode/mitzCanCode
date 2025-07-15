@@ -58,7 +58,7 @@ I'm currently considering a career path in either **cybersecurity** <span style=
 - Complete <strong>PCPP1</strong>, then <strong>JSA</strong> and <em>WDA</em>, with a focus on developing the foundation for web app pentesting.  
 - Begin university studies in computer science in Athens.
 
-### <span style="color:#A67B5B">PS.</span>
+### <span style="color:#A67B5B">P.S.</span>
 Extra points if you are one of the few who can understand what my profile picture is.
 
 ---
