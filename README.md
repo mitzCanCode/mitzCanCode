@@ -19,9 +19,7 @@ I'm a <span style="color:#A67B5B"><strong>Junior Software Developer && service d
 
 ## <span style="color:#A67B5B">Participation in the Greek National Informatics Competition</span>
 
-- **37th PDP (Panhellenic Informatics Competition)**  (<a href="https://www.pdp.gr/" style="color:#A67B5B">Explore the official PDP competition site</a>)
-<br>
-  With no prior experience in C programming, I self taught myself the very basics of C in arround a week (just enough for me to continue onto the second phase) during my Panhellenic exams preparation. For some it might not be much but im proud of that!
+- **37th PDP (Panhellenic Informatics Competition)**  (<a href="https://www.pdp.gr/" style="color:#A67B5B">Explore the official PDP competition site</a>)<br>With no prior experience in C programming, I self taught myself the very basics of C in arround a week (just enough for me to continue onto the second phase) during my Panhellenic exams preparation. For some it might not be much but im proud of that!
   <br>
   <a href="https://github.com/mitzCanCode/pdp" style="color:#A67B5B">Explore my PDP competition code here</a>
 
