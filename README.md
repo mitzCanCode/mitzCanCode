@@ -9,8 +9,6 @@ I'm a university student at the <span style="color:#A67B5B"><strong>University o
 
 - **JSA – Certified Associate JavaScript Programmer** (JavaScript Institute) 
 
----
-
 <div align="center">  
 <img src="https://raw.githubusercontent.com/mitzCanCode/mitzCanCode/output/snake.svg" alt="Snake animation" />
 </div>
