@@ -1,12 +1,13 @@
 <p align="center"><samp>
   <br>
-  "DIMITRIS CHATZIGEORGIOU"
+  <br>
+  DIMITRIS CHATZIGEORGIOU"
   <br>
   DIGITAL SYSTEMS UNDERGRAD @ UNIPI
   <br>
-    MY WORK SPEAKS FOR ME
+  ΤΑ ΛΟΓΙΑ ΕΙΝΑΙ ΦΤΩΧΙΑ
   <br>
-    THATS IT
+  Η ΦΩΝΗ ΜΟΥ ΣΤΗ ΔΟΥΛΕΙΑ ΜΟΥ
   <br>
   LUV MITZ
   <br>
