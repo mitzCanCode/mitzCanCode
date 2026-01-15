@@ -1,7 +1,7 @@
 <p align="center"><samp>
   <br>
   <br>
-  DIMITRIS CHATZIGEORGIOU"
+  "DIMITRIS CHATZIGEORGIOU"
   <br>
   DIGITAL SYSTEMS UNDERGRAD @ UNIPI
   <br>
