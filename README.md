@@ -5,10 +5,6 @@
   <br>
   DIGITAL SYSTEMS UNDERGRAD @ UNIPI
   <br>
-  ΤΑ ΛΟΓΙΑ ΕΙΝΑΙ ΦΤΩΧΙΑ
-  <br>
-  Η ΦΩΝΗ ΜΟΥ ΣΤΗ ΔΟΥΛΕΙΑ ΜΟΥ
-  <br>
   ΜΦΧ
   <br>
   ΔΧ
