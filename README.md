@@ -3,7 +3,7 @@
   <br>
   "DIMITRIS CHATZIGEORGIOU"
   <br>
-  DIGITAL SYSTEMS UNDERGRAD @ UNIPI
+  CS UNDERGRAD @ UNIPI
   <br>
   ΜΦΧ
   <br>
